@@ -1,5 +1,7 @@
 #rig1
-lobalfan 85
+reb 1
+autoreboot 3
+globalfan 85
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
 globalminer dstm-zcash
 stratumproxy enabled 
