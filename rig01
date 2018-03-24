@@ -1,11 +1,20 @@
 #rig1
-reb 1
-autoreboot 3
+
+reb 2
+#GTX1080---------------
+cor 86.04.60.00.80 2100
+mem 86.04.60.00.80 5600
+pwr 86.04.60.00.80 200
+#GTX1080Ti-------------
+cor 86.02.39.00.90 2000
+mem 86.02.39.00.90 5900
+pwr 86.02.39.00.90 240
+
 globalfan 85
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
-globalminer dstm-zcash
+globalminer sgminer-gm
 stratumproxy enabled 
-flags --cl-global-work 8192 --farm-recheck 200 
+
 maxgpu 85
 proxywallet spyda96.1
 #proxywallet b1LenZEGRo6WpQm35ywvc9HaGwt8cYvSH8R.psy01  
@@ -19,15 +28,4 @@ proxypass1 x
 proxypass2 x 
 proxypass3 x 
 #loc 01d6d1
-#GTX1080---------------
-cor 86.04.60.00.80 2100
-mem 86.04.60.00.80 5600
-pwr 86.04.60.00.80 200
-#GTX1080Ti-------------
-cor 86.02.39.00.90 2000
-mem 86.02.39.00.90 5900
-pwr 86.02.39.00.90 240
-
-#cor 01d6d1 2010 2010 2000 2010 2010 2010
-#mem 01d6d1 5010 5010 5600 5010 5010 5010
-#pwr 01d6d1 200 200 250 200 200 200
+autoreboot 3
