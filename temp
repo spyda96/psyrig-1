@@ -1,0 +1,123 @@
+#Monacoin--working----------------------------------------------------------------------$
+
+#globalminer ccminer
+#stratumproxy enabled
+#maxgputemp 85
+#flags -a lyra2v2
+#proxywallet spyda96.1
+#proxypool1 hub.miningpoolhub.com:20593
+#proxypass1 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2050 2000 2000 2000
+#mem 01d6d1 5010 5010 5600 5010 5010 5010
+#pow 01d6d1 230 230 280 230 230 230
+
+#Vertcoin--working----------------------------------------------------------------------$
+
+#globalminer ccminer
+#stratumproxy enabled
+#maxgputemp 85
+#flags -a lyra2v2
+#proxywallet spyda96.1:x
+#proxypool1 hub.miningpoolhub.com:20507
+#proxypass1 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2000 2000
+#mem 01d6d1 5600 5600 5600 5600
+#pow 01d6d1 225  225  225  225 
+#cor 01d6d1 2000 2000 2050 2000 2000 2000
+#mem 01d6d1 5010 5010 5600 5010 5010 5010
+#pow 01d6d1 230 230 280 230 230 230
+
+
+#BitcoinGold--working-------------------------------------------------------------------$
+
+#globalminer ewbf-zcash
+#stratumproxy enabled
+#maxgpu 85
+#flags --cl-global-work 8192 --farm-recheck 200
+#proxywallet spyda96.1
+#proxypool1 europe.equihash-hub.miningpoolhub.com:20575
+#proxypool2 us-east.equihash-hub.miningpoolhub.com:20595
+#proxypool3 asia.equihash-hub.miningpoolhub.com:20595
+#proxypass1 x
+#proxypass2 x
+#proxypass3 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2050 2000 2000 2000
+#mem 01d6d1 5010 5010 5600 5010 5010 5010
+#pow 01d6d1 230 230 280 230 230 230
+
+#cor 01d6d1 2000 2000 2000 2000
+#mem 01d6d1 4510 4510 4510 4510
+#pow 01d6d1 225  225  225  225 
+
+
+
+#ZenCash--notworking--------------------------------------------------------------------$
+
+#globalminer ewbf-zcash
+#stratumproxy enabled
+#maxgpu 85
+#flags --cl-global-work 8192 --farm-recheck 200
+#proxywallet spyda96.1
+#proxypool1 europe.equihash-hub.miningpoolhub.com:20594
+#proxypool2 us-east.equihash-hub.miningpoolhub.com:20594
+#proxypool3 asia.equihash-hub.miningpoolhub.com:20594
+#proxypass1 x
+#proxypass2 x
+#proxypass3 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2000 2000
+#mem 01d6d1 5600 5600 5600 5600
+#pow 01d6d1 225  225  225  225 
+
+#Digibyte-------------------------------------------------------------------------------$
+
+#globalminer ccminer
+#maxgpu 85
+#stratumproxy enabled
+#flags -a skein
+#proxywallet spyda96.1
+#proxypool1 hub.miningpoolhub.com:20527
+#proxypass1 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2000 2000
+#mem 01d6d1 5600 5600 5600 5600
+#pow 01d6d1 225  225  225  225 
+
+#Zencoin---------------------------------------------------------------------
+#globalminer ccminer
+#maxgpu 85
+#stratumproxy enabled
+#flags -a skein
+#proxywallet spyda96.1:x
+#proxypool1 hub.miningpoolhub.com:20527
+#proxypass1 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2050 2000 2000 2000
+#mem 01d6d1 5010 5010 5600 5010 5010 5010
+#pow 01d6d1 230 230 280 230 230 230
+#Feathercoin------------------------------------------------------------------
+
+#globalminer ccminer
+#Maxgpu 85
+#Stratumproxy enabled
+#flags -a neoscrypt
+#proxywallet spyda96.1
+#proxypool1 hub.miningpoolhub.com:20510
+#proxypass1 x
+#globalfan 85
+#cor 01d6d1 2000 2000 2050 2000 2000 2000
+#mem 01d6d1 5010 5010 5600 5010 5010 5010
+#pow 01d6d1 230 230 280 230 230 230
+#default--------------------------------------------------------------------------------$
+
+#maxgputemp 85
+#stratumproxy enabled
+#proxywallet 0x03a40844fdda3aeb7fd9dbe7e9c797ba2ce70841
+#proxypool1 pool-usa.ethosdistro.com:5001
+#proxypool2 pool-eu.ethosdistro.com:5001
+#flags --cl-global-work 8192 --farm-recheck 200
+#globalfan 85
+
