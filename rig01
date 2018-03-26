@@ -1,6 +1,6 @@
 #rig1
 
-reb 4
+reb 5
 
 maxgpu 85
 
@@ -20,7 +20,7 @@ pwr 86.02.39.00.90 240
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
 globalminer dstm-zcash
 stratumproxy enabled 
-flags --cl-global-work 8192 --farm-recheck 200 
+
 proxywallet spyda96.1
 proxypool1 europe.equihash-hub.miningpoolhub.com:17023
 proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
