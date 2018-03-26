@@ -121,7 +121,7 @@
 #flags --cl-global-work 8192 --farm-recheck 200
 #globalfan 85
 
-#Ravencoin
+#Komodocoin
 proxywallet RPdDe5d7FRDPLbGKvyvjpuwjSh3QVM9jH5
 proxypool1 hub.miningpoolhub.com:20593
 proxypass1 x
