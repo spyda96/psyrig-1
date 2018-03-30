@@ -1,0 +1,32 @@
+#rig1
+
+reb 1
+
+maxgpu 85
+
+globalfan 95
+
+#GTX1080---------------
+cor 86.04.60.00.80 2100
+mem 86.04.60.00.80 5600
+pwr 86.04.60.00.80 200
+
+#GTX1080Ti-------------
+cor 86.02.39.00.90 2000
+mem 86.02.39.00.90 5800
+pwr 86.02.39.00.90 240
+
+
+#Equihash_multi---ZClassicoin--working--75-remote----------------------------
+globalminer dstm-zcash
+stratumproxy enabled 
+
+proxywallet spyda96.2
+proxypool1 europe.equihash-hub.miningpoolhub.com:17023
+proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
+proxypool3 asia.equihash-hub.miningpoolhub.com:17023
+proxypass1 x
+proxypass2 x 
+proxypass3 x 
+
+autoreboot 3
