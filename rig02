@@ -1,6 +1,6 @@
 #rig2
 
-reb 9
+reb 10
 
 maxgpu 85
 
@@ -17,7 +17,7 @@ pwr 86.02.39.01.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet t1PJgDqvwunCmSFXEYdqDmyJASxbRRVAt4b
+proxywallet t1PJgDqvwunCmSFXEYdqDmyJASxbRRVAt4b.psy2
 proxypool1 zec-us-west1.nanopool.org:6666
 proxypool2 zec-us-east1.nanopool.org:6666
 proxypool3 zec-asia1.nanopool.org:6666
