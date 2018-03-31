@@ -17,7 +17,7 @@ pwr 86.02.39.01.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet b1HLHuwKgS8mSr1bfBEAjMYt5ZJrzcTWNEp.psy01
+proxywallet b1HLHuwKgS8mSr1bfBEAjMYt5ZJrzcTWNEp.psy02
 proxypool1 us.pandamines.com:6666
 proxypool2 eu.pandamines.com:6666
 proxypass1 x
