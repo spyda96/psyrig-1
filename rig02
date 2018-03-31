@@ -1,6 +1,6 @@
 #rig2
 
-reb 6
+reb 7
 
 maxgpu 85
 
@@ -17,7 +17,7 @@ pwr 86.02.39.01.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet spyda96.2
+proxywallet spyda96.1
 proxypool1 europe.equihash-hub.miningpoolhub.com:17023
 proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
 proxypool3 asia.equihash-hub.miningpoolhub.com:17023
