@@ -1,6 +1,6 @@
 #rig1
 
-reb 8
+reb 9
 
 maxgpu 85
 
@@ -21,12 +21,13 @@ pwr 86.02.39.00.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet b1HLHuwKgS8mSr1bfBEAjMYt5ZJrzcTWNEp.psy01
-proxypool1 us.pandamines.com:6666
-proxypool2 eu.pandamines.com:6666
-proxypass1 x
-proxypass2 x 
-
-
+proxywallet t1PJgDqvwunCmSFXEYdqDmyJASxbRRVAt4b.psy1
+proxypool1 zec-us-west1.nanopool.org:6666
+proxypool2 zec-us-east1.nanopool.org:6666
+proxypool3 zec-asia1.nanopool.org:6666
+proxypass1 z
+proxypass2 z 
+proxypass3 z 
+poolemail spyda96@gmail.com
 autoreboot 3
 
