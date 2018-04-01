@@ -1,6 +1,6 @@
 #rig2
 
-reb 12
+reb 13
 
 maxgpu 85
 
@@ -17,12 +17,11 @@ pwr 86.02.39.01.90 200
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet t1PJgDqvwunCmSFXEYdqDmyJASxbRRVAt4b.psy2
-proxypool1 zec-us-west1.nanopool.org:6666
-proxypool2 zec-us-east1.nanopool.org:6666
-proxypool3 zec-asia1.nanopool.org:6666
-proxypass1 z
-proxypass2 z 
-proxypass3 z 
-poolemail spyda96@gmail.com
+proxywallet spyda96.2
+proxypool1 us-east.equihash-hub.miningpoolhub.com:17023 
+proxypool2 europe.equihash-hub.miningpoolhub.com:17023
+proxypool3 asia.equihash-hub.miningpoolhub.com:17023
+proxypass1 x
+proxypass2 x 
+proxypass3 x 
 autoreboot 3
