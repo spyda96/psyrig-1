@@ -6,17 +6,19 @@ maxgpu 85
 
 globalfan 95
 
-
 #GTX1080Ti-------------
 cor 86.02.39.01.90 2000
 mem 86.02.39.01.90 5800
 pwr 86.02.39.01.90 220
 
-
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
 globalminer dstm-zcash
 stratumproxy enabled 
 
-zne7uVBVefH5bcvyL3GTGxC76rWwqMtUVHd
+proxywallet zne7uVBVefH5bcvyL3GTGxC76rWwqMtUVHd.psy02
+proxypool1 us.pandamines.com:5555
+proxypool2 eu.pandamines.com:5555
+proxypass1 x
+proxypass2 x 
 
 autoreboot 3
