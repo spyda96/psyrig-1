@@ -20,13 +20,11 @@ pwr 86.02.39.00.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet spyda96.1
-proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
-proxypool2 europe.equihash-hub.miningpoolhub.com:17023 
-proxypool3 asia.equihash-hub.miningpoolhub.com:17023
+proxywallet zne7uVBVefH5bcvyL3GTGxC76rWwqMtUVHd.psy01
+proxypool1 us.pandamines.com:5555
+proxypool2 eu.pandamines.com:5555
 proxypass1 x
 proxypass2 x 
-proxypass3 x 
 
 autoreboot 3
 
