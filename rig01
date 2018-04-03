@@ -1,6 +1,6 @@
 #rig1
 
-reb 21
+reb 22
 
 maxgpu 85
 
@@ -20,11 +20,10 @@ pwr 86.02.39.00.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet b1HLHuwKgS8mSr1bfBEAjMYt5ZJrzcTWNEp.psy01
-proxypool1 us.pandamines.com:6666
-proxypool2 eu.pandamines.com:6666
-proxypass1 x
-proxypass2 x 
+proxywallet spyda96.1
+proxypool1 europe.equihash-hub.miningpoolhub.com:17023
+proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
+proxypool3 asia.equihash-hub.miningpoolhub.com:17023
 
 autoreboot 3
 
