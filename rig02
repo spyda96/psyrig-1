@@ -1,6 +1,6 @@
 #rig2
 
-reb 25
+reb 26
 
 maxgpu 85
 
@@ -15,9 +15,9 @@ pwr 86.02.39.01.90 240
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet zne7uVBVefH5bcvyL3GTGxC76rWwqMtUVHd.psy02
-proxypool1 us.pandamines.com:5555
-proxypool2 eu.pandamines.com:5555
+proxywallet b1HLHuwKgS8mSr1bfBEAjMYt5ZJrzcTWNEp.psy02
+proxypool1 us.pandamines.com:6666
+proxypool2 eu.pandamines.com:6666
 proxypass1 x
 proxypass2 x 
 
