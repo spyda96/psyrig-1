@@ -1,6 +1,6 @@
 #rig2
 
-reb 23
+reb 24
 
 maxgpu 85
 
@@ -8,7 +8,7 @@ globalfan 95
 
 #GTX1080Ti-------------
 cor 86.02.39.01.90 2000
-mem 86.02.39.01.90 6000
+mem 86.02.39.01.90 5900
 pwr 86.02.39.01.90 240
 
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
