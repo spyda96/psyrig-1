@@ -1,6 +1,6 @@
 #rig1
 
-reb 24
+reb 25
 
 maxgpu 85
 
@@ -20,7 +20,7 @@ pwr 86.02.39.00.90 250
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet s1NMWWrrB26iGaJbwgVpKyA9NeUMcydPxnR.psy.01
+proxywallet s1NMWWrrB26iGaJbwgVpKyA9NeUMcydPxnR.psy01
 proxypool1 us.miningspeed.com:3022
 proxypool2 ea.miningspeed.com:3022
 proxypool3 asia.miningspeed.com:3022
