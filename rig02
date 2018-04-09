@@ -1,6 +1,6 @@
 #rig2
 
-reb 33
+reb 34
 
 maxgpu 85
 
@@ -15,9 +15,11 @@ pwr 86.02.39.01.90 200
 globalminer dstm-zcash
 #stratumproxy enabled 
 
-proxywallet spyda96.psy02
+proxywallet spyda96
+loc 4aed88
 proxypool1 zen.suprnova.cc:3618
 #proxypool2 eu.pandamines.com:6666
 poolpass1 x
+
 
 autoreboot 3
