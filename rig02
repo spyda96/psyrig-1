@@ -1,6 +1,6 @@
 #rig2
 
-reb 31
+reb 32
 
 maxgpu 85
 
@@ -13,10 +13,10 @@ pwr 86.02.39.01.90 200
 
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
 globalminer dstm-zcash
-stratumproxy enabled 
+#stratumproxy enabled 
 
 proxywallet spyda96.psy02
-proxypool1 zen.suprnova.cc:3618 
+proxypool1 stratum+tcp://zen.suprnova.cc:3618
 #proxypool2 eu.pandamines.com:6666
 poolpass1 x
 
