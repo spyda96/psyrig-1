@@ -18,6 +18,6 @@ stratumproxy enabled
 proxywallet spyda96.psy02
 proxypool1 zen.suprnova.cc:3618 
 #proxypool2 eu.pandamines.com:6666
-poolpass x
+poolpass1 x
 
 autoreboot 3
