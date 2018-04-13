@@ -1,6 +1,6 @@
 #rig1
 
-reb 26
+reb 27
 
 maxgpu 85
 
@@ -12,18 +12,19 @@ mem 86.04.60.00.80 5600
 pwr 86.04.60.00.80 215
 
 #GTX1080Ti-------------
-cor 86.02.39.00.90 2000
-mem 86.02.39.00.90 5800
+#cor 86.02.39.00.90 2000
+#mem 86.02.39.00.90 5800
 pwr 86.02.39.00.90 250
 
 #Equihash_multi---ZClassicoin--working--75-remote----------------------------
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet s1NMWWrrB26iGaJbwgVpKyA9NeUMcydPxnR.psy01
-proxypool1 us.miningspeed.com:3022
-proxypool2 ea.miningspeed.com:3022
-proxypool3 asia.miningspeed.com:3022
+proxywallet spyda96
+loc 01d6d1
+proxypool1 zen.suprnova.cc:3618
+#proxypool2 eu.pandamines.com:6666
+poolpass1 x
 
 autoreboot 3
 
