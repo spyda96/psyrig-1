@@ -1,10 +1,10 @@
 #rig1
 
-reb 28
+reb 29
 
 maxgpu 85
 
-globalfan 70
+globalfan 80
 
 #GTX1080---------------
 cor 86.04.60.00.80 2100
