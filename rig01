@@ -1,6 +1,6 @@
 #rig1
 
-reb 31
+reb 32
 
 maxgpu 85
 
@@ -22,8 +22,7 @@ stratumproxy enabled
 
 proxywallet spyda96
 loc 01d6d1
-proxypool1 zen.suprnova.cc:3618
-#proxypool2 eu.pandamines.com:6666
+proxypool1 btg.suprnova.cc:8816
 poolpass1 x
 
 autoreboot 3
