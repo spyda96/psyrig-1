@@ -1,6 +1,6 @@
 #rig1
 
-reb 32
+reb 33
 
 maxgpu 85
 
@@ -22,7 +22,7 @@ stratumproxy enabled
 
 proxywallet spyda96
 loc 01d6d1
-proxypool1 btg.suprnova.cc:8816
+proxypool1 zen.suprnova.cc:3618
 poolpass1 x
 
 autoreboot 3
