@@ -1,11 +1,10 @@
 #rig2
 
-reb 37
+reb 38
 
 maxgpu 85
 
-globalfan 95
-fan 4aed88
+fan 4aed88 80 80 80 80 80 80
 
 #GTX1080Ti-------------
 #cor 86.02.39.01.90 2000
