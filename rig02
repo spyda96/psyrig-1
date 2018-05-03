@@ -1,8 +1,10 @@
 #rig2
 
-reb 43
+reb 44
 
-maxgpu 100
+maxgpu 85
+
+globalfan 100
 
 fan 4aed88 
 
