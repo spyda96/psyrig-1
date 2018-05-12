@@ -1,6 +1,6 @@
 #rig1
 
-reb 42
+reb 43
 
 maxgpu 85
 globalfan 85
@@ -20,12 +20,11 @@ pwr 86.02.39.00.90 300
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet spyda96.1
 
-proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
-proxypool2 asia.equihash-hub.miningpoolhub.com:17023
-proxypass1 x 
-proxypass2 x 
+proxywallet spyda96
+loc 01d6d1
+proxypool1 zec.suprnova.cc:2142
+poolpass1 x 
 
 autoreboot 3
 
