@@ -1,6 +1,6 @@
 #rig2
 
-reb 47
+reb 48
 
 maxgpu 85
 
@@ -16,10 +16,11 @@ pwr 86.02.39.01.90 190
 globalminer ewbf-zcash 
 #stratumproxy enabled 
 
-proxywallet spyda96
-loc 4aed88
-proxypool1 zen.suprnova.cc:3618
-#proxypool2 eu.pandamines.com:6666
-poolpass1 x
+proxywallet spyda96.1
+
+proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
+proxypool2 asia.equihash-hub.miningpoolhub.com:17023
+proxypass1 x 
+proxypass2 x 
 
 autoreboot 3
