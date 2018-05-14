@@ -1,6 +1,6 @@
 #rig2
 
-reb 52
+reb 53
 
 maxgpu 85
 
@@ -13,7 +13,7 @@ fan 4aed88
 #mem 86.02.39.01.90 5800
 pwr 86.02.39.01.90 190
 
-globalminer ewbf-zcash 
+globalminer dstm-zcash 
 stratumproxy enabled 
 
 proxywallet spyda96
