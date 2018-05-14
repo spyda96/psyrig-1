@@ -1,29 +1,30 @@
 #rig1
 
-reb 44
+reb 45
 
 maxgpu 85
 globalfan 85
 fan 01d6d1 
 
 #GTX1080---------------
-cor 86.04.60.00.80 2100
-mem 86.04.60.00.80 5600
-pwr 86.04.60.00.80 180
+#cor 86.04.60.00.80 2100
+#mem 86.04.60.00.80 5600
+#pwr 86.04.60.00.80 180
 
 #GTX1080Ti-------------
 #cor 86.02.39.00.90 2000
 #mem 86.02.39.00.90 5800
-pwr 86.02.39.00.90 300
+#pwr 86.02.39.00.90 300
 
-#Equihash_multi---ZClassicoin--working--75-remote----------------------------
+#Equihash
+
 globalminer dstm-zcash
 stratumproxy enabled 
 
 
-proxywallet spyda96
-loc 01d6d1
-proxypool1 zen.suprnova.cc:3618
+proxywallet t1JyHEihTYunjnKMRanzvnpp8yqqdhrZoA1.psy1/spyda96@gmail.com
+#loc 01d6d1
+proxypool1 zec-us-west1.nanopool.org:6666
 poolpass1 x 
 
 autoreboot 3
