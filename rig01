@@ -1,6 +1,6 @@
 #rig1
 
-reb 45
+reb 46
 
 maxgpu 85
 globalfan 85
@@ -24,7 +24,7 @@ stratumproxy enabled
 
 proxywallet t1JyHEihTYunjnKMRanzvnpp8yqqdhrZoA1.psy1/spyda96@gmail.com
 #loc 01d6d1
-proxypool1 zec-us-west1.nanopool.org:6666
+proxypool1 zec-us-west1.nanopool.org:16666
 poolpass1 x 
 
 autoreboot 3
