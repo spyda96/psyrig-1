@@ -1,6 +1,6 @@
 #rig2
 
-reb 60
+reb 61
 
 maxgpu 85
 
@@ -16,10 +16,9 @@ pwr 86.02.39.01.90 220
 globalminer dstm-zcash 
 stratumproxy enabled 
 
-proxywallet spyda96
-loc 4aed88
-proxypool1 zen.suprnova.cc:3618
-poolpass1 x 
+proxywallet t1JyHEihTYunjnKMRanzvnpp8yqqdhrZoA1.psy2/spyda96@gmail.com
+proxypool1 zec-us-west1.nanopool.org:16666
+poolpass1 x
 
 
 autoreboot 3
