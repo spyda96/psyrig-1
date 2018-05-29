@@ -1,3 +1,16 @@
+#antminer
+us-west.siamining.com:3333
+ecb915b7c8c114ca6d0a113e86a8cb834e00b4721e7e0586c0032dc1a2691e22de919947b63d.pys3
+x
+
+stratum+tcp://sia-us-east1.nanopool.org:12222
+ecb915b7c8c114ca6d0a113e86a8cb834e00b4721e7e0586c0032dc1a2691e22de919947b63d.pys3/spyda96@gmail.com
+x
+
+stratum+tcp://stratum-sc.antpool.com:7777
+psy3.one
+123
+
 #Monacoin--working----------------------------------------------------------------------$
 
 #globalminer ccminer
