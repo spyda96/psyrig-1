@@ -1,6 +1,6 @@
 #rig1
 
-reb 58
+reb 59
 
 maxgpu 85
 
@@ -11,21 +11,21 @@ fan 01d6d1
 #GTX1080---------------
 cor 86.04.60.00.80 2100
 mem 86.04.60.00.80 5600
-pwr 86.04.60.00.80 170
+pwr 86.04.60.00.80 180
 
 #GTX1080Ti-------------
 #cor 86.02.39.00.90 1950
 #mem 86.02.39.00.90 5800
-pwr 86.02.39.00.90 220
+pwr 86.02.39.00.90 230
 
 #Equihash--------------
 
 globalminer dstm-zcash
 stratumproxy enabled 
 
-proxywallet spyda96
-loc 01d6d1
-proxypool1 zen.suprnova.cc:3618
+proxywallet spyda96.90674 
+#loc 01d6d1
+proxypool1 us-west01.miningrigrentals.com:3333 
 poolpass1 x 
 
 autoreboot 3
