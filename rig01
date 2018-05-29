@@ -26,7 +26,7 @@ stratumproxy enabled
 proxywallet spyda96.90674 
 #loc 01d6d1
 proxypool1 us-west01.miningrigrentals.com:50840
-poolpass1 x 
+#poolpass1 x 
 
 autoreboot 3
 
