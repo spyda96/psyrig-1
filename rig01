@@ -1,6 +1,6 @@
 #rig1
 
-reb 60
+reb 61
 
 maxgpu 85
 
@@ -21,7 +21,7 @@ pwr 86.02.39.00.90 230
 #Equihash--------------
 
 globalminer dstm-zcash
-stratumproxy enabled 
+#stratumproxy enabled 
 
 proxywallet spyda96.90674 
 #loc 01d6d1
