@@ -1,6 +1,6 @@
 #rig1
 
-reb 62
+reb 63
 
 maxgpu 85
 
@@ -26,7 +26,11 @@ stratumproxy enabled
 proxywallet spyda96.90674 
 #loc 01d6d1
 proxypool1 us-west01.miningrigrentals.com:50840
-poolpass1 x 
+proxypool2 us-central01.miningrigrentals.com:3333
+proxypool3 us-east01.miningrigrentals.com:3333
+
+poolpass1 x
+poolpass2 x
+poolpass3 x
 
 autoreboot 3
-
