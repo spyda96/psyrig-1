@@ -1,6 +1,6 @@
 #rig2
 
-reb 69
+reb 70
 
 maxgpu 85
 
@@ -9,9 +9,9 @@ globalfan 100
 fan 4aed88 
 
 #GTX1080Ti-------------
-#cor 86.02.39.01.90 2000
-#mem 86.02.39.01.90 5000
-pwr 86.02.39.01.90 220
+cor 86.02.39.01.90 2000
+mem 86.02.39.01.90 5000
+pwr 86.02.39.01.90 150
 
 globalminer dstm-zcash 
 stratumproxy enabled 
