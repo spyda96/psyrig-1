@@ -1,11 +1,11 @@
 #rig2
 
-reb 75
+reb 76
 
 maxgpu 85
 
 globalfan 100
-globalpwr 180
+globalpowertune 180
 fan 4aed88 
 
 #GTX1080Ti-------------
