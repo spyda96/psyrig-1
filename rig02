@@ -1,6 +1,6 @@
 #rig2
 
-reb 73
+reb 74
 
 maxgpu 85
 
@@ -14,6 +14,7 @@ mem 86.02.39.01.90 5600
 pwr 86.02.39.01.90 150
 
 globalminer dstm-zcash 
+flags -color
 stratumproxy enabled 
 
 proxywallet spyda96.90731
