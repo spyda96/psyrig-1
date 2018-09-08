@@ -11,26 +11,27 @@ fan 01d6d1
 #GTX1080---------------
 #cor 86.04.60.00.80 2100
 #mem 86.04.60.00.80 5600
-pwr 86.04.60.00.80 180
+pwr 86.04.60.00.80 150
 
 #GTX1080Ti-------------
 #cor 86.02.39.00.90 1950
 #mem 86.02.39.00.90 5800
-pwr 86.02.39.00.90 220
+pwr 86.02.39.00.90 150
 
 #Equihash--------------
 
-globalminer dstm-zcash
+globalminer nevermore
+flags -a x16r
 stratumproxy enabled 
 
-proxywallet spyda96.90674 
+proxywallet spyda96.01d6d1 
 #loc 01d6d1
-proxypool1 us-west01.miningrigrentals.com:50840
-proxypool2 us-central01.miningrigrentals.com:3333
-proxypool3 us-east01.miningrigrentals.com:3333
+proxypool1 rvn.suprnova.cc:6667
+#proxypool2 us-central01.miningrigrentals.com:3333
+#proxypool3 us-east01.miningrigrentals.com:3333
 
 poolpass1 x
-poolpass2 x
-poolpass3 x
+#poolpass2 x
+#poolpass3 x
 
 autoreboot 3
