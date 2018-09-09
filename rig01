@@ -1,6 +1,6 @@
 #rig1
 
-reb 1
+reb 2
 
 maxgpu 85
 
@@ -25,9 +25,9 @@ stratumproxy enabled
 
 proxywallet spyda96.01d6d1 
 #loc 01d6d1
-proxypool1  rvn.suprnova.cc:6667
-#proxypool2  us-central01.miningrigrentals.com:3333
-#proxypool3  us-east01.miningrigrentals.com:3333
+proxypool1 rvn.suprnova.cc:6667
+#proxypool2 us-central01.miningrigrentals.com:3333
+#proxypool3 us-east01.miningrigrentals.com:3333
 
 poolpass1 x
 #poolpass2 x
