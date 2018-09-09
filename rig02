@@ -1,6 +1,6 @@
 #rig2
 
-reb 78
+reb 79
 
 maxgpu 85
 
@@ -12,13 +12,13 @@ cor 86.02.39.01.90 +120
 mem 86.02.39.01.90 +450
 pwr 86.02.39.01.90 180
 
-globalminer dstm-zcash 
-flags -color
+globalminer nevermore 
+#flags -color
 stratumproxy enabled 
 
-proxywallet spyda96.90731
+proxywallet spyda96.101757
 #loc 4aed88
-proxypool1 us-west01.miningrigrentals.com:50428
+proxypool1 us-west01.miningrigrentals.com:50312
 proxypool2 us-central01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 
