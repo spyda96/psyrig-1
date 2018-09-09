@@ -1,6 +1,6 @@
-#rig1
+#rig1and2
 
-reb 80
+reb 1
 
 maxgpu 85
 
@@ -9,26 +9,25 @@ globalfan 100
 fan 01d6d1 
 
 #GTX1080---------------
-#cor 86.04.60.00.80 2100
-#mem 86.04.60.00.80 5600
-pwr 86.04.60.00.80 150
+cor 86.04.60.00.80 +70
+#mem 86.04.60.00.80 +400
+pwr 86.04.60.00.80 180
 
 #GTX1080Ti-------------
-#cor 86.02.39.00.90 1950
-#mem 86.02.39.00.90 5800
-pwr 86.02.39.00.90 150
+#cor 86.02.39.00.90 +80
+#mem 86.02.39.00.90 +400
+pwr 86.02.39.00.90 180
 
 #Equihash--------------
 
 globalminer nevermore
-flags -a x16r
 stratumproxy enabled 
 
-proxywallet spyda96.01d6d1 
+proxywallet 01d6d1 spyda96.01d6d1 
 #loc 01d6d1
-proxypool1 rvn.suprnova.cc:6667
-#proxypool2 us-central01.miningrigrentals.com:3333
-#proxypool3 us-east01.miningrigrentals.com:3333
+proxypool1 01d6d1 rvn.suprnova.cc:6667
+#proxypool2 01d6d1 us-central01.miningrigrentals.com:3333
+#proxypool3 01d6d1 us-east01.miningrigrentals.com:3333
 
 poolpass1 x
 #poolpass2 x
