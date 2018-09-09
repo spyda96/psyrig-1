@@ -1,6 +1,6 @@
 #rig1
 
-reb 2
+reb 0
 
 maxgpu 85
 
@@ -23,9 +23,9 @@ pwr 86.02.39.00.90 180
 globalminer nevermore
 stratumproxy enabled 
 
-proxywallet spyda96.01d6d1 
+proxywallet pyda96.101739 
 #loc 01d6d1
-proxypool1 rvn.suprnova.cc:6667
+proxypool1 us-west01.miningrigrentals.com:50094
 #proxypool2 us-central01.miningrigrentals.com:3333
 #proxypool3 us-east01.miningrigrentals.com:3333
 
