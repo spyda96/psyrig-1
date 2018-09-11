@@ -1,6 +1,6 @@
 #rig1
 
-reb 17
+reb 18
 
 maxgpu 85
 
@@ -20,9 +20,9 @@ pwr 86.02.39.00.90 170
 
 #Equihash--------------
 
-globalminer nevermore
+globalminer ccminer
 stratumproxy enabled 
-
+flag -a x16f
 proxywallet spyda96.101739 
 #loc 01d6d1
 proxypool1 us-west01.miningrigrentals.com:50094
