@@ -1,10 +1,10 @@
 #Zcash
-reb 1
+reb 2
 
 #SystemSettings----
 maxgputemp 85
-golbalfan 100
-fan 4aed8e 
+golbalfan 85
+fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
 globalminer dstm-zcash
