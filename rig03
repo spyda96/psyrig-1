@@ -1,5 +1,5 @@
 #Zcash
-reb 8
+reb 9
 
 #SystemSettings----
 maxgputemp 85
@@ -8,7 +8,7 @@ fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
 globalminer ewbf-equihash
-flags --algo 144_5 --pers AnonyPoW
+flags --algo 144_5 --pers auto
 stratumproxy enabled
 
 #Poolsettings-----
@@ -19,6 +19,6 @@ proxypass1 x
 proxypass2 x 
 
 #GpuOverclock------                          
-#cor 86.02.39.41.90 +50
-#mem 86.02.39.41.90 +100
+cor 86.02.39.41.90 +20
+mem 86.02.39.41.90 +400
 pwr 86.02.39.41.90 180 
