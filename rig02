@@ -1,6 +1,6 @@
 #rig2
 
-reb 1
+reb 2
 
 maxgpu 85
 
@@ -13,7 +13,7 @@ mem 86.02.39.01.90 +450
 pwr 86.02.39.01.90 180
 
 globalminer ewbf-equihash 
-flags --alfo 144_5
+flags --algo 144_5
 stratumproxy enabled 
 
 proxywallet spyda96.98348 
