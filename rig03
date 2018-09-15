@@ -8,7 +8,7 @@ fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
 globalminer ewbf-equihash
-flags --algo 144_5
+flags --algo 144_5 --pers AnonyPoW
 stratumproxy enabled
 
 #Poolsettings-----
