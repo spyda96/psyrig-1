@@ -1,5 +1,5 @@
 #Zcash
-reb 2
+reb 3
 
 #SystemSettings----
 maxgputemp 85
@@ -7,21 +7,14 @@ golbalfan 85
 fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
-globalminer dstm-zcash
-flags -color
+globalminer dstm-equihash
+flags --algo 144_5
 stratumproxy enabled
 
 #Poolsettings-----
-proxywallet spyda96.91340
-#Agent40oz.1
-#loc 4aed8e
-
-proxypool1 us-west01.miningrigrentals.com:50809
-#us-east.equihash-hub-miningpool.com:20570
-#zen.suprnova.cc:3618
+proxywallet spyda96.102291 
+proxypool1 us-west01.miningrigrentals.com:50534
 proxypool2 us-west01.miningrigrentals.com:3333
-#europe.equihash-hub.miningpoolhub.com:20570
-
 proxypass1 x
 proxypass2 x 
 
