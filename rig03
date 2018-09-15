@@ -1,5 +1,5 @@
 #Zcash
-reb 3
+reb 4
 
 #SystemSettings----
 maxgputemp 85
@@ -7,7 +7,7 @@ golbalfan 85
 fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
-globalminer dstm-equihash
+globalminer ewbf-equihash
 flags --algo 144_5
 stratumproxy enabled
 
