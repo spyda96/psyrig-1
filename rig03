@@ -1,5 +1,5 @@
 #Zcash
-reb 4
+reb 5
 
 #SystemSettings----
 maxgputemp 85
@@ -19,6 +19,6 @@ proxypass1 x
 proxypass2 x 
 
 #GpuOverclock------                          
-cor 86.02.39.41.90 +30 
-mem 86.02.39.41.90 +20
+cor 86.02.39.41.90 +50 
+mem 86.02.39.41.90 +100
 pwr 86.02.39.41.90 200 
