@@ -1,5 +1,5 @@
 #Zcash
-reb 18
+reb 19
 
 #SystemSettings----
 maxgputemp 85
@@ -7,18 +7,19 @@ golbalfan 85
 fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
-globalminer ewbf-equihash
-flags --algo 144_5 --pers AnonyPoW 
-stratumproxy enabled
+globalminer ccminer
+stratumproxy enabled 
+flags -a x16r
 
 #Poolsettings-----
-proxywallet spyda96.102291 
-proxypool1 us-west01.miningrigrentals.com:50534
+proxywallet spyda96.101757 
+proxypool1 us-west01.miningrigrentals.com:50312
 proxypool2 us-west01.miningrigrentals.com:3333
-proxypass1 x
-proxypass2 x 
+poolpass1 x
+poolpass2 x
+poolpass3 x
 
 #GpuOverclock------                          
-cor 86.02.39.41.90 +20
-mem 86.02.39.41.90 +30
-pwr 86.02.39.41.90 180 
+#cor 86.02.39.41.90 +20
+#mem 86.02.39.41.90 +30
+pwr 86.02.39.41.90 150 
