@@ -1,5 +1,5 @@
 #Zcash
-reb 16
+reb 17
 
 #SystemSettings----
 maxgputemp 85
@@ -8,8 +8,7 @@ fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
 globalminer ewbf-equihash
-flags --algo 144_5 
-#--pers BitcoinZ 
+flags --algo 144_5 --pers AnonyPow 
 stratumproxy enabled
 
 #Poolsettings-----
