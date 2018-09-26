@@ -1,6 +1,6 @@
 #rig2_4aed88
 
-reb 7
+reb 8
 
 maxgpu 85
 
@@ -8,17 +8,17 @@ globalfan 100
 fan 4aed88 
 
 #GTX1080Ti-------------
-cor 86.02.39.01.90 +100
+cor 86.02.39.01.90 +120
 mem 86.02.39.01.90 +300
 pwr 86.02.39.01.90 150
 
 globalminer ccminer
 stratumproxy enabled 
-flags -a x16r
+flags -a LYRA2v2
 
-proxywallet spyda96.102451 
+proxywallet spyda96.103405 
 #loc 
-proxypool1 us-west01.miningrigrentals.com:50691
+proxypool1 us-west01.miningrigrentals.com:50503
 proxypool2 us-central01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 
