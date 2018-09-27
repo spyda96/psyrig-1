@@ -1,5 +1,5 @@
 #Zcash
-reb 4
+reb 5
 
 #SystemSettings----
 maxgputemp 85
@@ -21,6 +21,6 @@ poolpass2 x
 poolpass3 x
 
 #GpuOverclock------                          
-cor 86.02.39.41.90 +100
-mem 86.02.39.41.90 +300
+#cor 86.02.39.41.90 +100
+#mem 86.02.39.41.90 +300
 pwr 86.02.39.41.90 150
