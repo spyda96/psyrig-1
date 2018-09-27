@@ -1,5 +1,5 @@
 #Zcash
-reb 5
+reb 6
 
 #SystemSettings----
 maxgputemp 85
@@ -9,11 +9,11 @@ fan 4aed8e 85 85 85 85 85 85
 #Minersettings----
 globalminer ccminer
 stratumproxy enabled 
-flags -a LYRA2v2
+flags -a x16r
 
 #Poolsettings-----
-proxywallet spyda96.103407 
-proxypool1 us-west01.miningrigrentals.com:50510
+proxywallet spyda96.101757 
+proxypool1 us-west01.miningrigrentals.com:50312
 proxypool2 us-west01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 poolpass1 x
