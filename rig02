@@ -1,6 +1,6 @@
 #rig2_4aed88
 
-reb 9
+reb 10
 
 maxgpu 85
 
@@ -14,11 +14,11 @@ pwr 86.02.39.01.90 150
 
 globalminer ccminer
 stratumproxy enabled 
-flags -a LYRA2v2
+flags -a x16r
 
-proxywallet spyda96.103405 
+proxywallet spyda96.102451 
 #loc 
-proxypool1 us-west01.miningrigrentals.com:50503
+proxypool1 us-west01.miningrigrentals.com:50691
 proxypool2 us-central01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 
