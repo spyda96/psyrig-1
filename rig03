@@ -1,5 +1,5 @@
 #Zcash
-reb 6
+reb 1
 
 #SystemSettings----
 maxgputemp 85
@@ -7,7 +7,7 @@ golbalfan 85
 fan 4aed8e 85 85 85 85 85 85
 
 #Minersettings----
-globalminer ccminer
+globalminer nevermore
 stratumproxy enabled 
 flags -a x16r
 
@@ -21,6 +21,6 @@ poolpass2 x
 poolpass3 x
 
 #GpuOverclock------                          
-#cor 86.02.39.41.90 +100
-#mem 86.02.39.41.90 +300
+cor 86.02.39.41.90 +70
+mem 86.02.39.41.90 +200
 pwr 86.02.39.41.90 150
