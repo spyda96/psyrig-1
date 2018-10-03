@@ -1,6 +1,6 @@
 #rig1r
 
-reb 4
+reb 5
 
 maxgpu 85
 
@@ -20,7 +20,7 @@ pwr 86.02.39.00.90 150
 
 #RVN--------------
 
-globalminer ccminer
+globalminer nevermore
 stratumproxy enabled
 flags -a x16r
 
