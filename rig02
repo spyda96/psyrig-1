@@ -1,6 +1,6 @@
 #rig2_4aed88
 
-reb 10
+reb 11
 
 maxgpu 85
 
@@ -12,7 +12,7 @@ fan 4aed88
 #mem 86.02.39.01.90 +300
 pwr 86.02.39.01.90 150
 
-globalminer ccminer
+globalminer nevermore
 stratumproxy enabled 
 flags -a x16r
 
