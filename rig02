@@ -1,6 +1,6 @@
 #rig2_4aed88
 
-reb 2
+reb 3
 
 maxgpu 85
 
@@ -10,7 +10,7 @@ fan 4aed88
 #GTX1080Ti-------------
 cor 86.02.39.01.90 +80
 mem 86.02.39.01.90 +240
-pwr 86.02.39.01.90 170
+pwr 86.02.39.01.90 150
 
 globalminer nevermore
 stratumproxy enabled 
