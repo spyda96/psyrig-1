@@ -1,10 +1,10 @@
 #rig1r
 
-reb 15
+reb 1
 
 maxgpu 85
 
-globalfan 100
+globalfan 80
 
 fan 01d6d1 
 
@@ -20,13 +20,13 @@ pwr 86.02.39.00.90 160
 
 #RVN--------------
 
-globalminer nevermore
+globalminer t-rex
 stratumproxy enabled
 flags -a x16r
 
 proxywallet spyda96.101739 
 #loc 01d6d1
-proxypool1 us-west01.miningrigrentals.com:50094
+proxypool1 us-west01.miningrigrentals.com:50437
 proxypool2 us-central01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 
