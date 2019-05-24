@@ -1,3 +1,13 @@
+#eth
+globalminer ccminer
+stratumproxy enabled
+proxywallet 0xB6904b46E791E8a5A803B47202e5b8675F4B042d
+proxypool1 us2.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+#---------------------
+proxypass1 x 
+proxypass2 x
+
 #antminer
 us-west.siamining.com:3333
 ecb915b7c8c114ca6d0a113e86a8cb834e00b4721e7e0586c0032dc1a2691e22de919947b63d.pys3
