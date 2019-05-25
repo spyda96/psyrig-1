@@ -19,7 +19,7 @@ mem 86.02.39.00.90 +0
 pwr 86.02.39.00.90 160
 
 #eth--------------
-globalminer ccminer
+globalminer ethminer
 stratumproxy enabled
 
 proxywallet 0xB6904b46E791E8a5A803B47202e5b8675F4B042d
