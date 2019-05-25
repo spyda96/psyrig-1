@@ -9,26 +9,24 @@ globalfan
 fan 01d6d1
 
 #GTX1080---------------
-cor 86.04.60.00.80 +100
-mem 86.04.60.00.80 -400
+cor 86.04.60.00.80 +0
+mem 86.04.60.00.80 +0
 pwr 86.04.60.00.80 140
 
 #GTX1080Ti-------------
-cor 86.02.39.00.90 +80
-mem 86.02.39.00.90 -360
+cor 86.02.39.00.90 +0
+mem 86.02.39.00.90 +0
 pwr 86.02.39.00.90 160
 
-#RVN--------------
-
-globalminer t-rex
+#eth--------------
+globalminer ccminer
 stratumproxy enabled
-flags -a x16r
 
-proxywallet spyda96.101739 
-#loc 01d6d1
-proxypool1 us-west01.miningrigrentals.com:50026
-proxypool2 us-central01.miningrigrentals.com:3333
-proxypool3 us-east01.miningrigrentals.com:3333
+proxywallet 0xB6904b46E791E8a5A803B47202e5b8675F4B042d
+proxypool1 us2.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+
+
 
 poolpass1 x
 poolpass2 x
