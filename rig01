@@ -6,25 +6,29 @@ maxgpu 85
 
 globalfan 
 
-fan 01d6d1
+fan 01d6d1 64 60 65 67 56
 
 #GTX1080---------------
-cor 86.04.60.00.80 +0
-mem 86.04.60.00.80 +0
+cor 86.04.60.00.80 +125
+mem 86.04.60.00.80 -400
 pwr 86.04.60.00.80 140
 
 #GTX1080Ti-------------
-cor 86.02.39.00.90 +0
-mem 86.02.39.00.90 +0
+cor 86.02.39.00.90 +80
+mem 86.02.39.00.90 -360
 pwr 86.02.39.00.90 160
 
-#eth--------------
-globalminer ethminer
-stratumproxy enabled
+#RVN--------------
 
-proxywallet 0xB6904b46E791E8a5A803B47202e5b8675F4B042d
-proxypool1 us2.ethermine.org:4444
-proxypool2 us1.ethermine.org:4444
+globalminer t-rex
+stratumproxy enabled
+flags -a x16r
+
+proxywallet spyda96.101739 
+#loc 01d6d1
+proxypool1 us-west01.miningrigrentals.com:50222
+proxypool2 us-central01.miningrigrentals.com:3333
+proxypool3 us-east01.miningrigrentals.com:3333
 
 poolpass1 x
 poolpass2 x
