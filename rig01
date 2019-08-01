@@ -26,7 +26,7 @@ flags -a x16r
 
 proxywallet spyda96.101739 
 #loc 01d6d1
-proxypool1 us-west01.miningrigrentals.com:50222
+proxypool1 us-west01.miningrigrentals.com:50160
 proxypool2 us-central01.miningrigrentals.com:3333
 proxypool3 us-east01.miningrigrentals.com:3333
 
