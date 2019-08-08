@@ -10,7 +10,7 @@ fan 01d6d1 64 60 65 67 56
 
 #GTX1080---------------
 cor 86.04.60.00.80 +125
-mem 86.04.60.00.80 -400
+mem 86.04.60.00.80 +400
 pwr 86.04.60.00.80 140
 
 #GTX1080Ti-------------
@@ -18,18 +18,18 @@ cor 86.02.39.00.90 +80
 mem 86.02.39.00.90 -360
 pwr 86.02.39.00.90 160
 
-#RVN--------------
+#ZEL--------------
 
-globalminer t-rex
+globalminer gminer
 stratumproxy enabled
-flags -a x16r
+flags -a 125_4 -pers ZelProof
 
-proxywallet spyda96.101739 
+proxywallet t1ZreWE5QYL6mrv2KpMUM48VVo6o9ZMQSHA.spyda96
 #loc 01d6d1
-proxypool1 us-west01.miningrigrentals.com:50160
-proxypool2 us-central01.miningrigrentals.com:3333
-proxypool3 us-east01.miningrigrentals.com:3333
+proxypool1 us.fomominers.com:6023
+#proxypool2 us-central01.miningrigrentals.com:3333
+#proxypool3 us-east01.miningrigrentals.com:3333
 
 poolpass1 x
-poolpass2 x
-poolpass3 x
+#poolpass2 x
+#poolpass3 x
