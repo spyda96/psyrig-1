@@ -25,9 +25,9 @@ stratumproxy enabled
 flags -a 125_4 
 #-pers ZelProof
 
-proxywallet us-west01.miningrigrentals.com:50487
-proxypool1 us-central01.miningrigrentals.com:3333
-#proxypool2 us.fomominers.com:6022
+proxywallet spyda96.133605
+proxypool1  us-west01.miningrigrentals.com:50487
+#proxypool2 us-central01.miningrigrentals.com:3333
 #proxypool3 us.fomominers.com:6021
 
 poolpass1 x
