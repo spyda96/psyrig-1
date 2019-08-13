@@ -9,7 +9,7 @@ globalfan
 fan 01d6d1 64 60 65 67 56
 
 #GTX1080---------------
-cor 86.04.60.00.80 +125
+cor 86.04.60.00.80 +150
 mem 86.04.60.00.80 +400
 pwr 86.04.60.00.80 140
 
@@ -27,9 +27,9 @@ flags -a 125_4 -pers ZelProof
 proxywallet t1ZreWE5QYL6mrv2KpMUM48VVo6o9ZMQSHA.spyda96
 #loc 01d6d1
 proxypool1 us.fomominers.com:6023
-#proxypool2 us-central01.miningrigrentals.com:3333
-#proxypool3 us-east01.miningrigrentals.com:3333
+proxypool2 us.fomominers.com:6022
+proxypool3 us.fomominers.com:6021
 
 poolpass1 x
-#poolpass2 x
-#poolpass3 x
+poolpass2 x
+poolpass3 x
