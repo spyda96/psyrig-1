@@ -20,7 +20,7 @@ pwr 86.02.39.00.90 160
 
 #ZEL--------------
 
-globalminer gminer
+globalminer bminer
 stratumproxy enabled
 flags -a 125_4 -pers ZelProof
 
