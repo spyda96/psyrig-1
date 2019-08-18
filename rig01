@@ -22,12 +22,11 @@ pwr 86.02.39.00.90 160
 
 globalminer gminer
 stratumproxy enabled
-flags -a 125_4 
-#-pers ZelProof
+flags -a 125_4 -pers ZelProof
 
-proxywallet spyda96.133605
-proxypool1  us-west01.miningrigrentals.com:50487
-proxypool2 us-central01.miningrigrentals.com:3333
+proxywallet t1ZreWE5QYL6mrv2KpMUM48VVo6o9ZMQSHA.psy
+proxypool1 us.fomominers.com:6023
+proxypool2 us.fomominers.com:6022
 proxypool3 us.fomominers.com:6021
 
 poolpass1 x
